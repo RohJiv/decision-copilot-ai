@@ -194,7 +194,7 @@ This distinction matters for enterprise adoption. Executives don't want another 
 **Phani Rajiv G**
 Technical Program Manager | Cloud & AI Platforms
 📍 Hyderabad, India
-📧 phani.rg@outlook.com
+📧 phani.rg@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/phanirajivg)
 
 This is the project I'm most proud of — it combines data analysis, AI reasoning, and product thinking into one tool.
